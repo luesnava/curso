@@ -1,0 +1,10 @@
+ESTOY haciendo el curso en el linux,   esta nota esta desde ahí,   pues en mac no se podia abrir los archivos por los permisos denegados
+
+git    se usa mucho en la s empresas,   para nosotros, nos puede servir    para  por ej   si estamos haciendo un sitio , y lo duplicamos para trabjar en el duplicado ,   pordemos guardar amboss en git   y otras más avanzadas  que podemos explorar
+SOLUCION A PERMISO DENIED 
+ABRIR CON SUDO  
+
+UNA Vez en git,  desde la terminal  podemos crear una stagment index,  un  
+
+
+
