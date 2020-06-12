@@ -7,4 +7,4 @@ ABRIR CON SUDO
 UNA Vez en git,  desde la terminal  podemos crear una stagment index,  un  
 
 
-
+estoy en git ,   en el curso. experimentando.  12 junio
